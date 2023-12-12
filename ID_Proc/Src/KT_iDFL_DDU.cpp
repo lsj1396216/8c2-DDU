@@ -390,15 +390,15 @@ void command_Event_485(const uint8_t * cmdfuncCode, const char cmddataCode[])
 				}
 				else
 				{
-					// Busy
+					// Busyfffffffffffffffffffffffffffffffffffffff
 					module_DDU.feed_Back(FB_NAK);
-				}
-			}
+				}//ggggggggggggggggggggggggggggggggggggggggggggggggg
+			}//ggggggggggggggggggggggggggggggggggggggggggggggg
 			else
 			{
 				// Uninitialized
 				module_DDU.feed_Back(FB_NAK);
-			}
+			}//hjgjghjhjjjjjjjjjjjjjjjj
 		}
 		
 		/////////////////////// Process Tube requests ///////////////////////
