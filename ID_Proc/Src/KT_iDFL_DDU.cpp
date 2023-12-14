@@ -17,7 +17,7 @@
 #define DDU_SENSOR_TUBE_2			SENSOR_7
 
 // Status1 bit map
-#define STATUS1_BUSY________7 BIT(7)
+#define STATUS1_BUSY________7 BIT(7)jjjj
 #define STATUS1_TUBE_READY__6 BIT(6)
 #define STATUS1_INITIALIZED_0 BIT(0)
 

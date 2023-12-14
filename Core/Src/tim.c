@@ -33,7 +33,7 @@ TIM_HandleTypeDef htim10;
 TIM_HandleTypeDef htim11;//hhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
 /* TIM2 init function */
-void MX_TIM2_Init(void)
+void MX_TIM2_Init(void)oooooooooooooooooooooooooooooooooooooooooo
 {
 
   /* USER CODE BEGIN TIM2_Init 0 */
